@@ -4,14 +4,12 @@
  
 ## Eu sou o Thiago Lima!
  
-… Sou instrutor de desenvolvimento web front-end, a principal tecnologia que tenho ensinado ultimamente é Angular, tem sido incrivel ensinar essa técnologia!
+… Sou instrutor de desenvolvimento web front-end na Generation Brasil e a principal tecnologia que tenho ensinado ultimamente é Angular, tem sido incrivel ensinar essa técnologia!
  
  
-## About me 
+## Entre em contato comigo 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/limathiagos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/limasthiagos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:docencia.thiago@gmail.com)
  
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
+- Obrigado por me visitar!
