@@ -4,7 +4,7 @@
  
 ## Eu sou o Thiago Lima!
  
-… Sou instrutor de desenvolvimento web front-end na Generation Brasil e a principal tecnologia que tenho ensinado ultimamente é Angular, tem sido incrivel ensinar essa técnologia!
+… Sou instrutor de desenvolvimento web front-end na Generation Brasil e a principal tecnologia que tenho ensinado ultimamente é Angular, tem sido incrivel essa experiência! Aqui você irá encontrar alguns projetos simples que ensino em sala de aula, fique a vontade para me dar dicas e implementar meus códigos =D
  
  
 ## Entre em contato comigo 
