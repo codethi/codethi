@@ -1,7 +1,9 @@
 # Olá, eu sou o Thiago Lima!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limathiagos&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limathiagos&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limathiagos&show_icons=true&theme=highcontrast) 
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limathiagos&layout=compact&theme=highcontrast) -->
 
 <div style="display: inline_block">
 
