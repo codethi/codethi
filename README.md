@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Thiago Lima (thi code)</h1>
 <h3 align="center">FullStack Developer, Tech Instructor & Youtuber</h3>
 
+- 🔭 I’m currently working on [Breaking News App](https://github.com/codethi/breaking-news)
+
+- 🌱 I’m currently learning **Golang**
+
+- 💬 Ask me about **NodeJs, ReactJs, SQL and noSQL**
+
+- 📫 How to reach me **docencia.thiago@gmail.com**
+
+- ⚡ Fun fact **I love working with carpentry**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
