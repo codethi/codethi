@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/G6xDxTS.png" />
-<h1 align="center">Hi 👋, I'm Thiago Lima (thi code)</h1>
+<h1 align="center">Hi 👋, I'm Thiago Lima or Thi Code</h1>
 <h3 align="center">FullStack Developer, Tech Instructor & Youtuber</h3>
 
 - 🔭 I’m currently working on [Breaking News App](https://github.com/codethi/breaking-news)
